@@ -1,0 +1,22 @@
+{
+  "name": "mongo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "07111995"
+  ],
+  "author": "cuong",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "bower": "^1.7.9",
+    "css": "^2.2.1",
+    "ect": "^0.5.9",
+    "express": "^4.13.4",
+    "html": "0.0.10"
+  }
+}
